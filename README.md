@@ -1,3 +1,3 @@
 # Attaining-Stationarity-Electric-Porduction
 
-![](/Images/Diff-Methods)
+![](Images/Diff-Methods.png)
